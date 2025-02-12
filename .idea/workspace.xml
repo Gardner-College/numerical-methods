@@ -4,9 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 02 by eric villaceran">
-      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/evillaceran/003 Newton-Raphson Method.ipynb" afterDir="false" />
+    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 03 by eric villaceran">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/numerical-methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_Bisection_Method/JSevero/001 Bisection Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_Bisection_Method/MarvinL/001 Bisection Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_Bisection_Method/jpabalinas/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_Bisection_Method/rpacla/001 Bisection Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_False_Position_Method/JSevero/002 False Position Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_False_Position_Method/MartinezE/002 False Position Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_False_Position_Method/MarvinL/002 False Position Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002_False_Position_Method/rpacla/002 False Position Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/JSevero/003 Newton-Raphson Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/MarvinL/003 Newton-Raphson Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/emartinez/003 Newton-Raphson Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/jpabalinas/003 Newton-Raphson Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/rpacla/.ipynb_checkpoints/003 Newton-Raphson Method-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_Newton_Raphson_Method/rpacla/003 Newton-Raphson Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/JSevero/004 Secant Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/MarvinL/004 Secant Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/emartinez/004 Secant Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/jpabalinas/004 Secant Method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/rpacla/.ipynb_checkpoints/004 Secant Method-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_Secant_Method/rpacla/004 Secant Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Bisection_Method/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/001_Bisection_Method/emartinez/001 Bisection Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Bisection_Method/emartinez/001 Bisection Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/002 False Position Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/002_False_Position_Method/002 False Position Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/jpabalinas/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/002_False_Position_Method/jpabalinas/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +76,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ERIC/PycharmProjects/numerical-methods/003_Newton_Raphson_Method/evillaceran"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ERIC/PycharmProjects/numerical-methods/003_Newton_Raphson_Method/evillaceran&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ERIC\PycharmProjects\numerical-methods\003_Newton_Raphson_Method\evillaceran" />
@@ -70,6 +95,76 @@
       <recent name="C:\Users\ERIC\PycharmProjects\numerical-methods\002_False_Position_Method\evillaceran\.ipynb_checkpoints" />
       <recent name="C:\Users\ERIC\PycharmProjects\numerical-methods\001_Bisection_Method\evillaceran" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="numerical-methods" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="numerical-methods" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="numerical-methods" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="numerical-methods" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -103,11 +198,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738855237424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="laboratory exercise 03 by eric villaceran">
+      <option name="closed" value="true" />
+      <created>1739366148806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739366148806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="laboratory exercise 02 by eric villaceran" />
-    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise 02 by eric villaceran" />
+    <MESSAGE value="laboratory exercise 03 by eric villaceran" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise 03 by eric villaceran" />
   </component>
 </project>
