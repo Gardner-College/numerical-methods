@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 02 by eric villaceran" />
+    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 03 by eric villaceran" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,12 +186,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739366378776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="laboratory exercise 03 by eric villaceran">
+      <option name="closed" value="true" />
+      <created>1739367489193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739367489193</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="laboratory exercise 03 by eric villaceran" />
     <MESSAGE value="laboratory exercise 02 by eric villaceran" />
-    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise 02 by eric villaceran" />
+    <MESSAGE value="laboratory exercise 03 by eric villaceran" />
+    <option name="LAST_COMMIT_MESSAGE" value="laboratory exercise 03 by eric villaceran" />
   </component>
 </project>
