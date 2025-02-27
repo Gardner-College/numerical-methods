@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 03 by eric villaceran" />
+    <list default="true" id="488b213f-0195-4efb-ae38-c176632934fc" name="Changes" comment="laboratory exercise 03 by eric villaceran">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_02_2025_1_39_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_02_2025_1_39_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_02_2025_1_54_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_02_2025_1_54_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_02_2025_2_57_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_02_2025_2_57_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_02_2025_2_57_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_02_2025_2_57_PM__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_02_2025_5_36_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_12_02_2025_5_36_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2025_2_16_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2025_2_16_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_02_2025_5_45_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_02_2025_5_45_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_02_2025_9_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_02_2025_9_10_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/001 Bisection Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Bisection_Method/001 Bisection Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/ajesalva/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/emartinez/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/emartinez/001 Bisection Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Bisection_Method/emartinez/001 Bisection Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/evillaceran/001 Bisection Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001_Bisection_Method/evillaceran/001 Bisection Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/jpabalinas/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Bisection_Method/scardinal/.ipynb_checkpoints/001 Bisection Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/002 False Position Method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/002_False_Position_Method/002 False Position Method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/ajesalva/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/jpabalinas/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_False_Position_Method/scardinal/.ipynb_checkpoints/002 False Position Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Newton_Raphson_Method/ajesalva/.ipynb_checkpoints/003 Newton-Raphson Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Newton_Raphson_Method/evillaceran/.ipynb_checkpoints/003 Newton-Raphson Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Newton_Raphson_Method/rpacla/.ipynb_checkpoints/003 Newton-Raphson Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Newton_Raphson_Method/scardinal/.ipynb_checkpoints/003 Newton-Raphson Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_Secant_Method/ajesalva/.ipynb_checkpoints/004 Secant Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_Secant_Method/rpacla/.ipynb_checkpoints/004 Secant Method-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_Secant_Method/scardinal/.ipynb_checkpoints/004 Secant Method-checkpoint.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +48,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="evillaceran" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,39 +59,40 @@
     &quot;assignee&quot;: &quot;VillaceranEric&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Gardner-College/numerical-methods.git&quot;,
-    &quot;accountId&quot;: &quot;bf4bbfb4-06b6-4aff-ae2a-c705a5ad878f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gardner-College/numerical-methods.git",
+    "accountId": "38f950a9-d409-4d24-a19b-7eb5e8badfaa"
   },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
     },
-    &quot;owner&quot;: &quot;Gardner-College&quot;,
-    &quot;repository&quot;: &quot;numerical-methods&quot;
+    "owner": "Gardner-College",
+    "repository": "numerical-methods"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2scvWaiur1AW6fgfC7Q3mnNcYaq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ERIC/PycharmProjects/numerical-methods/003_Newton_Raphson_Method/evillaceran&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "ddebien-2025-02-27",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ERIC/PycharmProjects/numerical-methods/003_Newton_Raphson_Method/evillaceran"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ERIC\PycharmProjects\numerical-methods\003_Newton_Raphson_Method\evillaceran" />
@@ -71,9 +107,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="remove_strategy" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
